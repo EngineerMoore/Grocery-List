@@ -1,0 +1,22 @@
+body {background-color: #F5B48F;}
+h1 {color: #C62104 ;
+text-align: center;}
+h2 {color:#C54404;
+  background-color:#f9f9ff98;
+  width:34%;}
+
+article {background-color: hsla(48, 82%, 89%, 0.5);
+  display:inline-block;
+  width: 150px;
+  height:250px;
+
+}
+img {width:250px;
+  height:250px;}
+  .flex-container {
+    display: flex;}
+  .flex-container > article {
+    background-color: hsla(48, 82%, 89%, 0.5);
+    width: 150px;
+    height:250px;
+    margin:20px
