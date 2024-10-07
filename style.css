@@ -1,22 +1,21 @@
-body {background-color: #F5B48F;}
+body {background-color: aquamarine;}
 h1 {color: #C62104 ;
 text-align: center;}
 h2 {color:#C54404;
-  background-color:#f9f9ff98;
-  width:34%;}
-
-article {background-color: hsla(48, 82%, 89%, 0.5);
-  display:inline-block;
-  width: 150px;
-  height:250px;
-
+  background-color:#f9f9ffbc;
+  text-align: center;
 }
-img {width:250px;
-  height:250px;}
-  .flex-container {
-    display: flex;}
-  .flex-container > article {
-    background-color: hsla(48, 82%, 89%, 0.5);
-    width: 150px;
-    height:250px;
-    margin:20px
+
+section {width:50%;
+  display:inline-block;}
+
+.item {margin:5px; 
+      background-color: #faf1cc80;
+      width:31%;
+      display:inline-block;}
+h3 {text-align: center;}
+
+img {width:250px ;
+  height:25;
+  padding-right:350px;
+float: right;}
